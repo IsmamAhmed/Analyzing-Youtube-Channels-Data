@@ -1,0 +1,5 @@
+channel_name,subscribers,views,total_videos
+Luke Barousse,252000,11286121,80
+Keith Galli,176000,11853531,75
+Tina Huang,403000,16043028,108
+Alex The Analyst,298000,11769882,169
